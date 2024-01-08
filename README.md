@@ -1,4 +1,4 @@
-This code selects randomly an English word, one after another, from the english_words.csv file. Then it shows the solution after a 3 seconds, which is the Hungarian equivalent of the word.
+This code selects randomly an English word from the english_words.csv file one after another. Then it shows the solution after a 3 seconds, which is the Hungarian equivalent of the word.
 
 If you know the solution, you could check the chekcmark but if you don't you should press on the cross image.
 
